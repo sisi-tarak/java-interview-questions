@@ -4192,20 +4192,17 @@ String describe(Result<?> result) {
 **[⬆ Back to Top](#table-of-contents)**
 
 <br>
-
----
+<br>
 
 <div align="center">
 
 ## 🎉 You've covered all 100 Java Interview Questions!
-
----
+<br>
 
 **If this repo helped your interview prep, please give it a ⭐**
 
 [![Star this repo](https://img.shields.io/github/stars/sisi-tarak/java-interview-questions?style=social)](https://github.com/sisi-tarak/java-interview-questions)
 
----
 
 ### 📲 Follow Sisi for more tech interview prep content
 
